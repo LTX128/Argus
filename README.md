@@ -1,4 +1,4 @@
-# Argus - Système de Capture Distante 🎯
+# 📸 - Argus - Système de Capture par lien 🎯
 
 [![Python Version](https://img.shields.io/badge/python-3.7+-blue.svg)](https://python.org)
 [![License](https://img.shields.io/badge/license-MIT-green.svg)](LICENSE)
@@ -104,5 +104,9 @@ La configuration dépend de la plateforme que vous souhaitez utiliser. Le pannea
 3.  Envoyez ce lien à la personne que vous souhaitez capturer (ou testez-le vous-même).
 4.  Lorsque la personne cliquera sur le lien, une page de "Vérification de sécurité" s'affichera brièvement.
 5.  La photo sera capturée et vous la recevrez directement dans votre chat Telegram ou sur votre canal Discord !
+
+---
+
+# 📸 - Argus - Made By LTX - 🛜
 
 ---
