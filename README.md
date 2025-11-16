@@ -42,7 +42,7 @@ L'utilisation de Argus à des fins malveillantes, pour espionner des individus s
 
 1.  **Cloner ce dépôt :**
     ```bash
-    git clone https://github.com/VOTRE_NOM_D_UTILISATEUR/Argus.git
+    git clone https://github.com/LTX128/Argus.git
     cd Argus
     ```
 
@@ -50,17 +50,10 @@ L'utilisation de Argus à des fins malveillantes, pour espionner des individus s
     ```bash
     pip install -r requirements.txt
     ```
-    *(Si le fichier `requirements.txt` n'existe pas, créez-le et ajoutez les lignes ci-dessous)*
-
-    **Contenu de `requirements.txt` :**
-    ```
-    Flask
-    requests
-    ```
 
 3.  **Démarrer Argus :**
     ```bash
-    python Argus.py
+    Executer : Argus.exe ou Argus.py
     ```
 
 Au premier lancement, le script vérifiera si `cloudflared` est installé. Si ce n'est pas le cas, il l'installera automatiquement pour vous.
@@ -95,17 +88,3 @@ Au premier lancement, le script vérifiera si `cloudflared` est installé. Si ce
 5.  La photo sera capturée et vous la recevrez directement dans votre chat Telegram !
 
 ---
-
-## 📸 Démonstration
-
-### Panneau de Contrôle
-*(Ici, vous pourriez ajouter une capture d'écran de l'interface web)*
-`![Panneau de Contrôle](screenshots/dashboard.png)`
-
-### Page de Vérification Discrète
-*(Ici, vous pourriez ajouter une capture d'écran de la page de vérification)*
-`![Page de Vérification](screenshots/verification.png)`
-
----
-
-## 📁 Structure du Projet
