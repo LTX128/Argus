@@ -27,7 +27,7 @@ Cet outil est conçu à des fins éducatives, de sécurité personnelle et de te
 
 L'utilisation de Argus à des fins malveillantes, pour espionner des individus sans leur consentement éclairé, ou pour toute activité illégale est **strictement interdite** et peut constituer une violation des lois sur la vie privée et la cybersécurité.
 
-**Vous êtes le seul responsable de l'usage que vous faites de ce logiciel.** Les développeurs déclinent toute responsabilité pour les dommages ou les problèmes légaux résultant d'une mauvaise utilisation. **Utilisez cet outil de manière éthique et responsable.**
+**Vous êtes le seul responsable de l'usage que vous faites de ce logiciel.** Le développeurs déclinent toute responsabilité pour les dommages ou les problèmes légaux résultant d'une mauvaise utilisation. **Utilisez cet outil de manière éthique et responsable.**
 
 ---
 
